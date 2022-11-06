@@ -1,0 +1,9 @@
+.vs/
+.vscode/
+.cache/
+out/
+
+cmake-build-*/
+build/
+
+CMakeSettings.json
